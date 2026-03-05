@@ -1,6 +1,6 @@
 # Arthur Riess  
 
-[![GitHub followers](https://img.shields.io/github/followers/arthurriess?style=social)](https://github.com/arthurriess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-riess/) [![GitHub stars](https://img.shields.io/github/stars/arthurriess/your-repo?style=social)](https://github.com/arthurriess/your-repo)  
+[![GitHub followers](https://img.shields.io/github/followers/arthurriess?style=social)](https://github.com/arthurriess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-riess/) [![GitHub stars](https://img.shields.io/github/stars/arthurriess/your-repo?style=social)](https://github.com/riessz)  
 
 ## 💼 Sobre mim
 
@@ -27,9 +27,9 @@ Ao longo da faculdade, trabalhei em projetos relevantes, como:
 
 ## 📫 Contato
 
-- 📧 **Email:** arthurriess@example.com
+- 📧 **Email:** arthurriess10@gmail.com
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/arthur-riess/
-- 🐙 **GitHub:** https://github.com/arthurriess
+- 🐙 **GitHub:** https://github.com/riessz
 
 ---
 
