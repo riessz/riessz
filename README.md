@@ -1,6 +1,6 @@
 # Arthur Riess
 
-Cursando Engenharia de Software pela IBMEC, atualmente no 4º período.
+Software Engineering student at IBMEC (4th semester) with interest in Data Science, Data Engineering and Backend Development.
 
 ## Interests
 
@@ -10,8 +10,15 @@ Cursando Engenharia de Software pela IBMEC, atualmente no 4º período.
 
 ## Technologies
 
+**Programming**
 - Python
-- SQL e Excel
+- Java
+
+**Data**
+- SQL
+- Excel
+
+**Tools**
 - Git
 
 ## Projects
@@ -24,4 +31,5 @@ Ao longo da faculdade desenvolvi alguns projetos, sendo os principais:
 
 ## Sobre mim
 
-- Meu principal objetivo é trabalhar na área de Data Science. Gosto de mexer com números e estatísticas, e considero uma qualidade especial minha ser bem atento em relação a detalhes.
+Meu principal objetivo é trabalhar na área de Data Science ou Data Engineering.
+Tenho interesse em trabalhar com dados, estatística e construção de pipelines de dados.
