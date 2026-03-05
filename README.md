@@ -12,7 +12,7 @@ Estudante de Engenharia de Software no IBMEC (4º semestre) com foco em **Data S
 |----------------|---------------------------------------------|
 | **Linguagens** | Python, Java                                 |
 | **Dados**      | SQL, Excel, Pandas, NumPy                    |
-| **Frameworks** | Django,                                      |
+| **Frameworks** | Django, React                                |
 | **Ferramentas**| Git, GitHub, VSCode                          |
 
 ## 📂 Projetos
