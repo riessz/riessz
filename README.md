@@ -12,7 +12,7 @@ Estudante de Engenharia de Software no IBMEC (4º semestre) com foco em **Data S
 |----------------|---------------------------------------------|
 | **Linguagens** | Python, Java                                 |
 | **Dados**      | SQL, Excel, Pandas, NumPy                    |
-| **Frameworks** | Django, Spring (básico)                      |
+| **Frameworks** | Django,                                      |
 | **Ferramentas**| Git, GitHub, VSCode                          |
 
 ## 📂 Projetos
@@ -22,8 +22,6 @@ Ao longo da faculdade, trabalhei em projetos relevantes, como:
 - **Sistema de Monitoria** – Backend em Django para automatizar criação e aplicação de vagas de monitoria na faculdade.
 - **Jogo Java** – Aplicação em Java para reforçar conceitos de Programação Orientada a Objetos.
 - **Sistemas Embarcados** – Início de projeto envolvendo hardware e software embarcado.
-
-> *Mais detalhes e links serão adicionados conforme os repositórios forem publicados.*
 
 ## 📫 Contato
 
