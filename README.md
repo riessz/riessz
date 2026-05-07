@@ -27,7 +27,6 @@ Ao longo da faculdade, trabalhei em projetos relevantes, como:
 
 - 📧 **Email:** arthurriess10@gmail.com
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/arthur-riess/
-- 🐙 **GitHub:** https://github.com/riessz
 
 ---
 
