@@ -21,7 +21,8 @@ Ao longo da faculdade, trabalhei em projetos relevantes, como:
 
 - **Sistema de Monitoria** – Backend em Django para automatizar criação e aplicação de vagas de monitoria na faculdade.
 - **Jogo Java** – Aplicação em Java para reforçar conceitos de Programação Orientada a Objetos.
-- **Sistemas Embarcados** – Início de projeto envolvendo hardware e software embarcado.
+- **Projetos Pessoais** – Aplicação fullstack de controle de gastos (Django + React);
+- Pipeline completa de dados de Segurança Pública do RJ.
 
 ## 📫 Contato
 
@@ -30,4 +31,4 @@ Ao longo da faculdade, trabalhei em projetos relevantes, como:
 
 ---
 
-*Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.*
+*Sinta-se a vontade para entrar em contato!*
