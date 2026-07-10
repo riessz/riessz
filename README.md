@@ -39,10 +39,6 @@ Buscando estágio para aplicar isso em pipelines de dados, APIs REST e produtos 
 **Fundamentos**
 - 🔗 [**java-game-oop**](https://github.com/riessz/java-game-oop) — Jogo em Java aplicando conceitos de Programação Orientada a Objetos, em dupla.
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=riessz&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riessz&layout=compact&hide_border=true)
 
 ## 📫 Contato
 
