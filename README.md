@@ -4,13 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-riess/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurriess10@gmail.com)
 
-## 💼 Sobre mim
+## Sobre mim
 
 Estudante de Engenharia de Software no IBMEC (4º período), com foco em **desenvolvimento backend** e **análise de dados** — Python, Django, SQL. Também já passei por **sistemas embarcados/IoT** e **automação em Linux** em projetos acadêmicos.
 
 Buscando estágio para aplicar isso em pipelines de dados, APIs REST e produtos reais.
 
-## 🚀 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -22,7 +22,7 @@ Buscando estágio para aplicar isso em pipelines de dados, APIs REST e produtos 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 **Backend & Dados**
 - 🔗 [**backend-django**](https://github.com/riessz/backend-django) — Sistema de Monitoria IBMEC: API REST em Django com autenticação por perfil (aluno/professor) e CRUD de vagas.
@@ -40,10 +40,10 @@ Buscando estágio para aplicar isso em pipelines de dados, APIs REST e produtos 
 - 🔗 [**java-game-oop**](https://github.com/riessz/java-game-oop) — Jogo em Java aplicando conceitos de Programação Orientada a Objetos, em dupla.
 
 
-## 📫 Contato
+## Contato
 
-- 📧 **Email:** [arthurriess10@gmail.com](mailto:arthurriess10@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/arthur-riess](https://www.linkedin.com/in/arthur-riess/)
+-  **Email:** [arthurriess10@gmail.com](mailto:arthurriess10@gmail.com)
+-  **LinkedIn:** [linkedin.com/in/arthur-riess](https://www.linkedin.com/in/arthur-riess/)
 
 ---
 *Sinta-se à vontade para entrar em contato!*
